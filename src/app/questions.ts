@@ -1,0 +1,10 @@
+export const detail : any = JSON.parse('[{"question": "Q.1. What the fullform of TCS?", "options":["Table Counting Services", "TATA Consultancy Services","TATA Consulting Services","Terabyte Creating Services"], "answer": "TATA Consultancy Services"}, \
+{"question": "Q.2. What is fullform of ILP?", "options":["Initial Learning Program", "Initial Learning Phase","Institutional Learning Program","None of The Above"], "answer": "Initial Learning Program"},\
+{"question": "Q.3. A(n) ______ allows two modules to communicate with each other.", "options":["Data Structure", "Axiom","Interface","Client"], "answer": "Interface"},\
+{"question": "Q.4. What kind of interface contains a method if and only that method is essential to that class responsibilities?", "options":["Complete", "Minimal","Expanded","Compact"], "answer": "minimal"},\
+{"question": "Q.5. Encapsulation combines an ADT data with its operations to form a(n) ______.", "options":["Exception", "Method","Object","Variable"], "answer": "Object"},\
+{"question": "Q.6. Which of the following could not be a module?", "options":["A Stand Alone Function", "A Data Member","A Class Member","A Class ItSelf"], "answer": "A Data Member"},\
+{"question": "Q.7. A binary search uses a ______ strategy.", "options":["Sequential", "Divide and Conquer","Determine the Pivot","Smallest to Largest"], "answer": "Divide and Conquer"},\
+{"question": "Q.8. When should an operation contract be written?", "options":["During Analysis", "After Coding","At the Same Time as User Documentation","When Taking Initial Notes from Client"], "answer": "During Analysis"},\
+{"question": "Q.9. Data structures are part of an ADT\'s ______.", "options":["Defination", "Implementation","Specifications","Usage"], "answer": "Implementation"},\
+{"question": "Q.10. What is fullform of MEAN Stack", "options":["Major Earning Area of None ", "Mongo Express Angular NodeJs","Man Eating A Large Nachos","Mango Engineer Android Nest"], "answer": "Mongo Express Angular NodeJs"}]');
